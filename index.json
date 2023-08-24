@@ -1,1 +1,12 @@
-{}
+{
+    "releases": [
+        {
+            "version": {
+                "major": 3,
+                "minor": 0,
+                "patch": 0
+            },
+            "url": "https://github.com/mediaz/engine-releases/releases/download/v3.0.0/mzEngine-v3.0.0.zip"
+        }
+    ]
+}
