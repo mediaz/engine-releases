@@ -1,3 +1,8 @@
 {
-    "releases": [ ]
+    "releases": [
+        {
+            "version": "0.1.0.b2238",
+            "url": "https://github.com/mediaz/engine-releases/releases/download/v0.1.0.b2238/mzEngine-0.1.0.b2238.dll"
+        }
+    ]
 }
