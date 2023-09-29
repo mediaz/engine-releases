@@ -1,6 +1,11 @@
 {
     "releases": [
         {
+            "version": "0.1.0.b2288",
+            "url": "https://github.com/mediaz/engine-releases/releases/download/v0.1.0.b2288/mzEngine-0.1.0.b2288.dll",
+            "release_date": "2023-09-29T18:31:18.742399"
+        },
+        {
             "version": "0.1.0.b2287",
             "url": "https://github.com/mediaz/engine-releases/releases/download/v0.1.0.b2287/mzEngine-0.1.0.b2287.dll",
             "release_date": "2023-09-29T18:29:35.221553"
