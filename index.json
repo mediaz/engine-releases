@@ -1,6 +1,11 @@
 {
     "releases": [
         {
+            "version": "5.1.0.b3444",
+            "url": "https://github.com/mediaz/engine-releases/releases/download/v5.1.0.b3444/nosEngine-5.1.0.b3444.dll",
+            "release_date": "2024-09-04T17:45:19.698800"
+        },
+        {
             "version": "5.1.0.b3443",
             "url": "https://github.com/mediaz/engine-releases/releases/download/v5.1.0.b3443/nosEngine-5.1.0.b3443.dll",
             "release_date": "2024-09-04T17:02:30.032577"
